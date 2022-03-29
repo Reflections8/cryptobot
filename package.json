@@ -4,9 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node cryptobot.js",
-    "dev": "nodemon cryptobot.js"
+    "start": "node cryptobot.js"
   },
   "engines": {
 	  "node": "16.14.0"
